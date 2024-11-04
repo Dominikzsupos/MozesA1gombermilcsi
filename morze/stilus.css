@@ -1,10 +1,20 @@
-﻿body {}
+﻿body {
+    background-image: url(hatter.png);
+    font-family: sans-serif;
+    font-size: 110%;
+    color: #444444;
+}
+
+a{
+    color: black
+}
 
 #tartalom {
     padding: 2px;
 }
 
 h1,
+
 h2 {
     font-family: sans-serif;
 }
@@ -15,7 +25,7 @@ h2 {
 }
 
 p {
-    text-align: ;
+    text-align: justify;
 }
 
 .bal {
